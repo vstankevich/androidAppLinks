@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.minsk2019.android.family",
+    "sha256_cert_fingerprints":
+    ["92:5E:D5:67:45:4B:C1:A9:56:A1:50:51:17:4A:DA:F1:72:7F:7B:68:81:30:48:11:82:FF:0C:6D:F3:38:F2:E9"]
+  }
+}]
